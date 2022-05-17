@@ -1,0 +1,6 @@
+Nama: alamat
+Umur: umur
+Alamat: alamat
+Nama: Nama
+Umur: Umur
+Alamat: Alamat
